@@ -9,13 +9,21 @@ This project is also a good lesson in C optimization as we need to save every bi
 ## 💻 DONE
 
 • The philosophers must never be starving. 
+
 • Every philosopher needs to eat. 
+
 • Philosophers don’t speak with each other. 
+
 • Philosophers don’t know when another philosopher is about to die. 
+
 • Each time a philosopher has finished eating, he will drop his forks and start sleeping. 
+
 • When a philosopher is done sleeping, he will start thinking. 
+
 • The simulation stops when a philosopher dies. 
+
 • One fork between each philosopher, therefore if they are multiple philosophers, there will be a fork at the right and the left of each philosopher. 
+
 • Each philosopher should be a thread.
 
 ## 📦 Installation
