@@ -6,7 +6,7 @@ This project is also a good lesson in C optimization as we need to save every bi
 
 ![philo]
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/An_illustration_of_the_dining_philosophers_problem.png/500px-An_illustration_of_the_dining_philosophers_problem.png
+[philo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/An_illustration_of_the_dining_philosophers_problem.png/500px-An_illustration_of_the_dining_philosophers_problem.png)
 
 ## 💻 DONE
 
