@@ -4,7 +4,7 @@ This project is a training to multi-threads programming with the use of mutex.
 It contains program simulating a twist of the famous Dining Philosophers problem.
 This project is also a good lesson in C optimization as we need to save every bit of CPU usage we can to ensure the survival of our philosophers.
 
-![philo](https://camo.githubusercontent.com/db61cc08cc9be57152afb22ae99eedde38120c5a2eee648ce28c4345a599ae32/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f372f37622f416e5f696c6c757374726174696f6e5f6f665f7468655f64696e696e675f7068696c6f736f70686572735f70726f626c656d2e706e67)
+![philo](https://camo.githubusercontent.com/db61cc08cc9be57152afb22ae99eedde38120c5a2eee648ce28c4345a599ae32/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f372f37622f416e5f696c6c757374726174696f6e5f6f665f7468655f64696e696e675f7068696c6f736f70686572735f70726f626c656d2e706e67) { width: 500px; }
 ## 💻 DONE
 
 • The philosophers must never be starving. 
