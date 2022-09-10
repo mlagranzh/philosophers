@@ -4,8 +4,6 @@ This project is a training to multi-threads programming with the use of mutex.
 It contains program simulating a twist of the famous Dining Philosophers problem.
 This project is also a good lesson in C optimization as we need to save every bit of CPU usage we can to ensure the survival of our philosophers.
 
-![philo]
-
 ![philo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/An_illustration_of_the_dining_philosophers_problem.png/500px-An_illustration_of_the_dining_philosophers_problem.png)
 
 ## 💻 DONE
